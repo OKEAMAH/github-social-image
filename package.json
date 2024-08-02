@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^18.0.9",
-    "debug": "^4.2.0",
+    "debug": "^4.3.5",
     "octokit-fetch-all-repos": "^1.0.4",
     "puppeteer": "^5.4.1",
     "request": "^2.88.2",
